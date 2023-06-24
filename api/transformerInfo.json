@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "type": "Transformer",
+    "name": "a",
+    "phase": "Three",
+    "range": "Up to 150KVAR",
+    "rated_voltage": [
+      "415V",
+      "440V",
+      "550V",
+      "690V"
+    ],
+    "Tuning_factor": [
+      "5.67%",
+      "7%",
+      "14%"
+    ],
+    "image": "http://localhost:4000/images/img2.jpg",
+    "Conductor": "Copper/Aluminium wound",
+    "Type": "Iron core dry type"
+  },
+  {
+    "id": 2,
+    "type": "Transformer",
+    "name": "b",
+    "phase": "Three",
+    "range": "Up to 150KVAR",
+    "rated_voltage": [
+      "415V",
+      "440V",
+      "550V",
+      "690V"
+    ],
+    "Tuning_factor": [
+      "5.67%",
+      "7%",
+      "14%"
+    ],
+    "image": "http://localhost:4000/images/img2.jpg",
+    "Conductor": "Copper/Aluminium wound",
+    "Type": "Iron core dry type"
+  },
+  {
+    "id": 3,
+    "type": "Choke",
+    "name": "a",
+    "phase": "Three",
+    "range": "Up to 150KVAR",
+    "rated_voltage": [
+      "415V",
+      "440V",
+      "550V",
+      "690V"
+    ],
+    "Tuning_factor": [
+      "5.67%",
+      "7%",
+      "14%"
+    ],
+    "image": "http://localhost:4000/images/img2.jpg",
+    "Conductor": "Copper/Aluminium wound",
+    "Type": "Iron core dry type"
+  } 
+]
